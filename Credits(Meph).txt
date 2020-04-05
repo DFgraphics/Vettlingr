@@ -1,0 +1,187 @@
+Hello and thank you for downloading the Meph Tileset.
+
+This is a pre-installed tileset; which means you unpack it and you are done. All you need to do is generate a new world and play.
+
+Please don't copy older saves from other tilesets into this version, the results would be rather random.
+
+________________________________________
+________________________________________
+Index:
+0.9 - Icons
+1.0 - Installation
+1.1 - Modded workshops
+1.2 - Colors
+1.3 - Seasonal Colors
+1.4 - Shadows
+1.5 - Fonts
+1.6 - Map Tilesets
+1.7 - GifCam
+1.8 - Dfhack
+1.9 - TWBT
+2.0 - Screenshots
+2.1 - Credits
+2.2 - Patreon/Donations
+________________________________________
+________________________________________
+
+
+
+
+
+________________________________________
+0.9 - Icons:
+________________________________________
+When giving Dwarves nicknames, press SHIFT+2, SHIFT+3, SHIFT+4 or SHIFT+5 for a nice surprise!
+
+It writes icons into the text field. A sword (melee unit), a crossbow (ranged unit), a crown (noble) or a wheelbarrow (hauler). This way you can mark and sort your dwarves a lot easier.
+
+I put this at the front because it's something that's never been done, so people must learn about it first. ;-)
+
+
+________________________________________
+1.0 - Installation:
+________________________________________
+The tileset comes with a pre-installed Dwarf Fortress, dfhack and Text-will-be-text (TWBT) plugin. All you need to do is run DwarfFortress.exe. Done.
+
+
+________________________________________
+1.1 - Modded workshops:
+________________________________________
+The tileset includes new workshops; decorative workshops with no extra abilities. You build them like any other workshop. They have reactions that change their final design. For example you can build a "light", then pick from 13 included lanterns, candles and fire graphics.
+
+Other workshops make new materials available for constructions, like gem or bone; or trigger dfhack scripts for you, as opposed to entering them in the console. 
+
+All of these additions are optional and can be removed in the launcher with one click. This requires a new worldgen.
+
+
+
+________________________________________
+1.2 - Extra colors:
+________________________________________
+I included a selection of different color themes. You find them in the "extra colors" folder, or by simply changing colors in the launcher.
+
+To get an idea of how they look, just open the Legends - Color Schemes.png in the tileset-legends folder.
+
+
+________________________________________
+1.3 - Seasonal colors:
+________________________________________
+The graphic set also includes a custom dfhack script that switches color palettes each season. These are saved in your region-folders, so you can use different ones in different saves, if you like.  You find them in the "seasonal colors" folder.
+
+They are named colors_season.txt. To use them, copy them into dwarffortress/raw and replace the 5 colors_*.txt in there. The first one is the default palette and will be used in the menu.
+
+To get an idea of how they look, just open the Legend - Seasonal color schemes.png in the seasonal colors folder.
+
+If you want to disable this feature, open the dfhack.init with a text editor and delete the line "season-palette start", or disable it in the launcher.
+
+
+________________________________________
+1.4 - Extra shadows:
+________________________________________
+I included 3 sets of shadows for TWBT; small, medium and large. You find them in the "extra shadows" folder.
+
+They are named shadow_size.png. To use them, copy them into data/art and replace the shadpows.png in there; or pick one from a drop-down menu in the launcher.
+
+
+________________________________________
+1.5 - Extra fonts:
+________________________________________
+I included over a dozen text fonts, which also use TWBT; small, medium, Dungeon, thin and embossed, as well as designs by other tileset authors, like DragondePlatinos GemSet or Taffers Set. You find them in the "extra fonts" folder.
+
+They are named font_name.png. To use them, copy them into data/art and replace the font.png in there. You have to rename your new font to "font.png". Or do it the simpler way, you guessed it, pick one in the launcher.
+
+
+________________________________________
+1.6 - Worldmap tilesets:
+________________________________________
+I included 3 sets of a map tileset; 32x, 24x and 16x. You find them in the "TilesetExtras\Worldmap tileset" folder. They are used to make a really pretty worldmap, but sadly nothing else. This means they are only of use to make screenshots of maps for your community forts, stories and other content you create. Once you are done, replace them with the original tileset again and keep playing. :)
+
+They are named Meph_Map_size.png. To use them, copy them into data/art and replace the Meph_32x32.png in there, then go to data/init, open init.txt and change the 2 lines [GRAPHICS_FONT:Meph_32x32.png] and [GRAPHICS_FULLFONT:Meph_32x32.png] to the tileset name you picked. 
+
+________________________________________
+1.7 - GifCam.exe:
+________________________________________
+A small utility that allows easy capturing of gifs. I added it to help players capture epic combat, animations and occurences in your daily fort life, like murdering Elf traders.
+
+To use it, simply run the GifCam.exe, no installation required. Handling is intuitive.
+
+You can read more about it on http://blog.bahraniapps.com/gifcam/
+
+
+________________________________________
+1.8 - DFHACK:
+________________________________________
+Dfhack is a DF utility that allows changes to be made that are otherwise impossible. It has many features, anything from cheats to bugfixes and ingame utilities.
+
+You can read more about it on http://www.bay12forums.com/smf/index.php?topic=139553.0
+
+
+________________________________________
+________________________________________
+1.9 - TWBT:
+TWBT, or Text-Will-Be-Text, is a dfhack plugin that allows multiple graphical fixes. You can see several z-levels at once, you can use second tileset just for the font, and you can override single tiles with better replacements.
+
+This is heavily used for this tileset, replacing several hundred tiles with unique sprites.
+
+You can read more about it on http://www.bay12forums.com/smf/index.php?topic=138754.0
+
+WARNING: 
+TWBT might cause instability issues on some peoples machines. This is rare and usually only happens if either the GPU is very old, or if a lot of tiles are replaced at the same time. 
+
+SOLUTIONS: 
+- Disable animations/variations by using "twbt redraw_all 0". (Enable again with 1, if this was not the culprit.)
+
+- Try to stay away from ocean/beach embarks; the constant waves change a lot of tiles.
+
+- Disable multilevel view by typing "multilevel 0" into the dfhack command window.
+
+- Disable tile overrides by deleting/removing the overrides.txt in the data/init folder.
+
+- Disable TWBT by deleting/removing the hack/plugins/twbt.dll file.
+
+
+________________________________________
+2.0 - Screenshots:
+________________________________________
+I plan to include cool screenshots from players into the download to showcaste the tileset. If you have nice pics, please send them to me. I'm Meph on Bay12, found here http://www.bay12forums.com/smf/index.php?action=profile;u=61165
+
+
+________________________________________
+2.1 - Credits:
+________________________________________
+I used Photoshop and MS Paint to make the tileset.
+I used resources from Dibujor, Obsidian Soul, Doren and Utkonos.
+
+Dibujor: Thank you and best of luck with your (maybe) revived work. I used some of his furniture, wall and weapon ideas.
+
+Obsidian Soul: Thank you and I hope you come back to DF some time. I used some of your abandoned 24/32x item sprites and based the civ-creatures of your design.
+
+Doren: You are a genius for the way you designed the ballista! I used some of your 24x machinery upscaled/smoothed it for 32x.
+
+Utkonos: Special thanks to you for allowing me to use your creature sprites. I based the map-tileset of your work and most monsters/animals in this set are upscaled/smoothed versions of your 24x creatures.
+
+Vordak: Thank you for the second set of dwarf sprites, the tracks and multiple minor fixes.
+
+Denzi: Several creature sprites, especially the procedually generated sets are based on his work.
+
+Jecowa: Multiple fixes.
+
+And a few resources from modded minecraft sets:
+  - http://pixeljoint.com/pixelart/67541.htm  DustyCraft by Dusty (7 tiles)
+  - ArestiansDawn Minecraft tileset by Levaunt (1 tile, Hellsand, heavily altered)
+  - Derivation_5 Minecraft tileset by theVoid1313 (1 tile, Hellsand)
+
+ - Painting sprites by DeviantArt user Ayene-chan. Thank you for making them free to use, regardless of game or license. :)
+
+Thanks also to Toady One (for DF), Deon (for Genesis, my favourite mod), Phoebus (for my favourite tileset) and everyone who gave me feedback and suggestions for the set. :)
+
+
+________________________________________
+2.1 - Patreon/Donations:
+________________________________________
+If you really like DF and/or this tileset and want to help out indy developers, consider making a small donations.
+
+Tarn Adams aka Toady One, the developer of DF: https://www.patreon.com/bay12games
+Patrick Martin aka Meph, the maker of this tileset and the MasterworkDF Mod: https://www.patreon.com/meph
+
+Thank you!

@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4115ff9-6860-44da-9521-ddbe999eb796" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/init/overrides.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="457">
+              <caret line="1205" column="12" selection-start-line="1205" selection-start-column="12" selection-end-line="1205" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/raw/objects/creature_standard.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="202">
+              <caret line="284" selection-start-line="284" selection-end-line="284" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/raw/objects/inorganic_stone_layer.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3330">
+              <caret line="222" column="51" selection-start-line="222" selection-start-column="51" selection-end-line="222" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/raw/objects/inorganic_stone_mineral.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9510">
+              <caret line="634" column="58" selection-start-line="634" selection-start-column="58" selection-end-line="634" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/raw/objects/plant_crops.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4096">
+              <caret line="856" column="62" selection-start-line="856" selection-start-column="62" selection-end-line="856" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/raw/objects/plant_standard.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5460">
+              <caret line="364" column="20" selection-start-line="364" selection-start-column="20" selection-end-line="364" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/raw/objects/plant_garden.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11655">
+              <caret line="777" column="21" selection-start-line="777" selection-start-column="4" selection-end-line="777" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/raw/objects/plant_grasses.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5016">
+              <caret line="223" column="22" lean-forward="true" selection-start-line="223" selection-start-column="22" selection-end-line="223" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>obsidia</find>
+      <find>MOSS O</find>
+      <find>LONGLAND</find>
+      <find>MOSS OPAL</find>
+      <find>BAMBOO</find>
+      <find>129:T:ShrubDead:4:89:::::PLANT</find>
+      <find>:::LEAF_MAT::</find>
+      <find>::::LEAF_MAT:</find>
+      <find>LEAF_MAT</find>
+      <find>WHIP</find>
+      <find>LONG</find>
+      <find>:::::PLANT</find>
+      <find>GOOD</find>
+      <find>4:R:4:38:39:40:41:::STRUCTURAL_PLANT_MAT:PLANT:DOWNY GRASS:]</find>
+      <find>4:R:6:32:33:34:35:36:37:::STRUCTURAL_PLANT_MAT:PLANT:BUBBLE BULBS:]</find>
+      <find>R:7:38:39:40:41:::STRUCTURAL_PLANT_MAT:]</find>
+      <find>BUBBLE BULBS</find>
+      <find>VINE_</find>
+      <find>STRUCTURAL_PLANT_MAT</find>
+      <find>GABBRO</find>
+      <find>COLOR:0:</find>
+      <find>COLOR:8:</find>
+      <find>COLOR:8:12</find>
+      <find>chrom</find>
+      <find>:7:</find>
+      <find>:7</find>
+      <find>serpe</find>
+      <find>garnet</find>
+      <find>ORTH</find>
+      <find>hide</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>MEAT</replace>
+      <replace>IMPLIES_ANIMAL_KILL</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/raw/objects/creature_standard.txt" />
+        <option value="$PROJECT_DIR$/data/init/d_init.txt" />
+        <option value="$PROJECT_DIR$/raw/objects/inorganic_stone_soil.txt" />
+        <option value="/Applications/Lazy Mac Pack v0.44.12 dfhack-r2/Dwarf Fortress 0.44.12/data/init/overrides.txt" />
+        <option value="$PROJECT_DIR$/raw/objects/inorganic_stone_gem.txt" />
+        <option value="$PROJECT_DIR$/raw/objects/inorganic_stone_layer.txt" />
+        <option value="$PROJECT_DIR$/raw/objects/inorganic_stone_mineral.txt" />
+        <option value="$PROJECT_DIR$/raw/objects/plant_standard.txt" />
+        <option value="$PROJECT_DIR$/raw/objects/plant_grasses.txt" />
+        <option value="$PROJECT_DIR$/data/init/overrides.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="11" />
+    <option name="y" value="23" />
+    <option name="width" value="1205" />
+    <option name="height" value="1086" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Vettlingr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Vettlingr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Vettlingr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Vettlingr" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Vettlingr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Vettlingr" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="init" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Vettlingr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Vettlingr" type="462c0819:PsiDirectoryNode" />
+              <item name="raw" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Vettlingr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Vettlingr" type="462c0819:PsiDirectoryNode" />
+              <item name="raw" type="462c0819:PsiDirectoryNode" />
+              <item name="objects" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="Images" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4115ff9-6860-44da-9521-ddbe999eb796" name="Default Changelist" comment="" />
+      <created>1569634608837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569634608837</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="11" y="23" width="1205" height="1086" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24239865" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32997987" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32952183" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/data/art/_Items.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw/objects/creature_small_riverlake.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="733" column="49" selection-start-line="733" selection-start-column="49" selection-end-line="733" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw/objects/creature_amphibians.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/init/init.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///Applications/Lazy Mac Pack v0.44.12 dfhack-r2/Dwarf Fortress 0.44.12/data/init/overrides.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="851">
+          <caret line="1354" selection-start-line="1354" selection-end-line="1354" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/init/d_init.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2269">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw/objects/inorganic_stone_soil.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1635">
+          <caret line="109" column="26" selection-start-line="109" selection-start-column="26" selection-end-line="109" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw/objects/inorganic_stone_gem.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="752" column="38" selection-start-line="752" selection-start-column="32" selection-end-line="752" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw/objects/inorganic_stone_layer.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3330">
+          <caret line="222" column="51" selection-start-line="222" selection-start-column="51" selection-end-line="222" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw/objects/inorganic_stone_mineral.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9510">
+          <caret line="634" column="58" selection-start-line="634" selection-start-column="58" selection-end-line="634" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw/objects/plant_standard.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5460">
+          <caret line="364" column="20" selection-start-line="364" selection-start-column="20" selection-end-line="364" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw/objects/plant_garden.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11655">
+          <caret line="777" column="21" selection-start-line="777" selection-start-column="4" selection-end-line="777" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw/objects/plant_crops.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4096">
+          <caret line="856" column="62" selection-start-line="856" selection-start-column="62" selection-end-line="856" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/init/overrides.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="1205" column="12" selection-start-line="1205" selection-start-column="12" selection-end-line="1205" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw/objects/creature_standard.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="284" selection-start-line="284" selection-end-line="284" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw/objects/plant_grasses.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5016">
+          <caret line="223" column="22" lean-forward="true" selection-start-line="223" selection-start-column="22" selection-end-line="223" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
