@@ -2,12 +2,12 @@ plant_new_trees
 
 With contributions from:
 
-/u/XIILarxene - Alexis DeSilva
+/u/alastrionacatskill - Alexis DeSilva
 /u/K3achas - Jenifer De Jager
-    My densities come from http://www.csudh.edu/oliver/chemdata/woods.htm (I got all the trees from there in plant_new_trees, color from https://www.woodworkerssource.com and http://www.forestryforum.com
+	My densities come from http://www.csudh.edu/oliver/chemdata/woods.htm (I got all the trees from there in plant_new_trees, color from https://www.woodworkerssource.com and http://www.forestryforum.com
 
 /u/JapaMala - Japa
-    I converted all the material colors I have in Armok Vision to their closest DF color tokens, and copied them here.
+	I converted all the material colors I have in Armok Vision to their closest DF color tokens, and copied them here.
 
 [OBJECT:PLANT]
 
@@ -1998,7 +1998,7 @@ With contributions from:
 		[STATE_NAME:ALL_SOLID:almond wood]
 		[STATE_ADJ:ALL_SOLID:almond wood]
 		[PREFIX:NONE]
-	 	[SOLID_DENSITY:795] Canít find sources for almond, going for plum which is in same genus http://www.wood-database.com/plum/
+	 	[SOLID_DENSITY:795] Can't find sources for almond, going for plum which is in same genus http://www.wood-database.com/plum/
 	 	[STATE_COLOR:ALL_SOLID:COPPER] *** not yet searched
 	[USE_MATERIAL_TEMPLATE:LEAF:LEAF_TEMPLATE]
 		[STATE_COLOR:ALL:EMERALD]
@@ -2327,7 +2327,7 @@ With contributions from:
 		[STATE_NAME:ALL_SOLID:cherry wood]
 		[STATE_ADJ:ALL_SOLID:cherry wood]
 		[PREFIX:NONE]
-	 	[SOLID_DENSITY:425] *** varies by type -- I couldnít find the data for prunus avium, Iím approximating it to prunus pennsilvanica (wild red cherry) http://www.csudh.edu/oliver/chemdata/woods.htm
+	 	[SOLID_DENSITY:425] *** varies by type -- I couldn't find the data for prunus avium, I'm approximating it to prunus pennsilvanica (wild red cherry) http://www.csudh.edu/oliver/chemdata/woods.htm
 	 	[STATE_COLOR:ALL_SOLID:GOLD] *** approximated to black american cherry https://www.woodworkerssource.com/shop/category/Cherry.html
 	[USE_MATERIAL_TEMPLATE:DRINK:PLANT_ALCOHOL_TEMPLATE]
 		[STATE_NAME_ADJ:ALL_SOLID:frozen cherry wine]
