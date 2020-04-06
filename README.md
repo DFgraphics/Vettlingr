@@ -1,3 +1,26 @@
+# Vettlingr-lite
+
+This is a fork of Vettlingr's Tileset that excludes some mods.  
+Here's what's different in this distribution of Vettlingr:
+
+ * Quartz cannot be turned into glass.
+ * Anhydrite can only be found in Gypsum.
+ * Diamonds cannot be found in Kimberlite.
+ * Mushroom "trees" don't have leaves.
+ 
+If you would like to download the full version of Vettlingr 32x with the
+above features restored, you can download it from its thread on bay12forums.
+
+Vettlingr's forum thread: www.bay12forums.com/smf/index.php?topic=172078.0
+
+________________________________________
+________________________________________
+
+*Note: The following is the original
+readme from Vettlingr's Tileset.*
+________________________________________
+
+
 Thank you for downloading Vettlingrs Tieset. 1.2
 
 This is an beta version, its features are subject to change. A lot of the assets are still placeholders from other sets.
